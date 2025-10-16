@@ -33,7 +33,7 @@ cd ../frontend && npm install
    # Frontend  
    cd frontend && npm start
 ## Technology Stack
--**Blockchain**: Ethereum, Hardhat, Web3.js
+- **Blockchain**: Ethereum, Hardhat, Web3.js
 
 -**Storage**: IPFS
 
