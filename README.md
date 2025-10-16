@@ -47,6 +47,6 @@ cd ../frontend && npm install
 
 - **Blockchain-based access logs**
 
-Patient-controlled consent
+- **Patient-controlled consent**
 
-GDPR/HIPAA compliant design
+- **GDPR/HIPAA compliant design**
