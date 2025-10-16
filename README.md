@@ -13,10 +13,10 @@ A secure, blockchain-based healthcare records system built with JavaScript techn
 ## Quick Start
 
 1. **Install dependencies**
-```bash
-cd backend && npm install
-cd ../frontend && npm install
-```
+   ```bash
+   cd backend && npm install
+   cd ../frontend && npm install
+   ```
 2. **Start local blockchain**
    ```bash
    npx hardhat node
