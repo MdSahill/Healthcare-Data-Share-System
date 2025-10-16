@@ -37,8 +37,16 @@ cd ../frontend && npm install
 
 - **Storage**: IPFS
 
--- **Backend**: Node.js, Express, MongoDB
+- **Backend**: Node.js, Express, MongoDB
 
--- **Frontend**: React, Web3.js
+- **Frontend**: React, Web3.js
 
--- **Encryption**: CryptoJS
+- **Encryption**: CryptoJS
+## Security Features
+- **End-to-end encryption**
+
+- **Blockchain-based access logs**
+
+Patient-controlled consent
+
+GDPR/HIPAA compliant design
