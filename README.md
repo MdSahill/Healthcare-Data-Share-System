@@ -35,10 +35,10 @@ cd ../frontend && npm install
 ## Technology Stack
 - **Blockchain**: Ethereum, Hardhat, Web3.js
 
--**Storage**: IPFS
+- **Storage**: IPFS
 
---**Backend**: Node.js, Express, MongoDB
+-- **Backend**: Node.js, Express, MongoDB
 
---**Frontend**: React, Web3.js
+-- **Frontend**: React, Web3.js
 
---**Encryption**: CryptoJS
+-- **Encryption**: CryptoJS
